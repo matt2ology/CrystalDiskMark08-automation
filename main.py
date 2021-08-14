@@ -50,7 +50,7 @@ def launchCDM():
         subprocess.Popen(versionx64)
     else:
         logging.info("Opeing " + versionx32)
-        subprocess.Popen(versionx32)    
+        subprocess.Popen(versionx32)
     pass
 
 
