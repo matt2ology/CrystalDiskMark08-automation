@@ -25,8 +25,7 @@ logging.basicConfig(
 
 def main():
     logging.info("Starting Crystal Disk Mark Automation...")
-    is_in_default_path(check_default_install_path())
-    launchCDM()
+
     pass
 
 
