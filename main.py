@@ -8,6 +8,7 @@ import os
 import pyautogui
 import subprocess
 import sys
+import time
 
 TODAYSDATE = str(date.today()).replace(
     '-', '')  # Grabs current date as YYYYMMDD
