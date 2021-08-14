@@ -6,6 +6,7 @@ from datetime import date
 import logging
 import os
 import pyautogui
+import struct
 import subprocess
 import sys
 import time
